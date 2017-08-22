@@ -22,11 +22,11 @@ We use the standard github pull requests for merging your fork of the book back 
 
 ## Chapter Contribution
 
-You might feel adventures and are willing to contribute a full chapter. Your name will then be placed on the chapter for your reference. For this crate a new chaprer folder (e.g. ch99) and write your content using [Sphinx](http://sphinx-doc.org) markup. We will then place the chapter into the chapter queue and when it's ready we will sort it into the table of contents.
+You might feel adventures and are willing to contribute a full chapter. Your name will then be placed on the chapter for your reference. For this crate a new chapter folder (e.g. ch99) and write your content using [Sphinx](http://sphinx-doc.org) markup. We will then place the chapter into the chapter queue and when it's ready we will sort it into the table of contents.
 
 ## Translations
 
-So you speak something else then english. Great! Feel free to translate the book into your language. For this clone the repository and then later create a pull request that we can sort this in. Before you start you should contact us on gitter to make sure there is no overlap.
+So if you speak something other than english. Great! Feel free to translate the book into your language. For this clone the repository and then later create a pull request that we can sort this in. Before you start you should contact us on gitter to make sure there is no overlap.
 
 Note: The infrastructure is not yet there, but soon we should be ready for translations.
 
